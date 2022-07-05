@@ -26,8 +26,8 @@ while True:
         print("you've got it right, it is",random_number)
         break
     elif user_guess < random_number:
-        print("Try with a larger number")
+        print("Try with a larger num")
     else:
-        print("Try with a smaller number")
+        print("Try with a  smaller num")
 
 print("the total number of guesses taken is",guesses)
